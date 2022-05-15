@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SharmaRahul111
 - 👀 I’m interested in Web development & programming, javascript
-- 🌱 I’m currently learning three js
+- 🌱 I’m currently learning neural networks and game development in Javascript
 - 📫 How to reach me sharmarahulwebdev@gmail.com
 
 <!---
